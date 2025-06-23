@@ -61,4 +61,17 @@ It was built to demonstrate how Excel can be used not just for data entry, but a
 
 ---
 
+🖼️ **Screenshots**
+
+ [Sales_dashboard]()
+
+
+
+---
+
+
+🤝 **Let's Connect**
+* [LinkedIn](www.linkedin.com/in/emwindosa-osarenmwinda-52428a14a)
+* [Portfolio](https://your-portfolio-link.com)
+* [Email](osarenmwindame@gmail.com)
 
