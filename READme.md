@@ -1,4 +1,4 @@
-📁 **Project Title: Sales Performance Dashboard (Excel) – 2023 vs 2024**
+📁 **Sales Performance Dashboard (Excel) – 2023 vs 2024**
 
 
 ---
