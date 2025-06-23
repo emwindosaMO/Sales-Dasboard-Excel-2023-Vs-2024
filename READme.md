@@ -63,7 +63,7 @@ It was built to demonstrate how Excel can be used not just for data entry, but a
 
 🖼️ **Screenshots**
 
- [Sales_dashboard]()
+ [Sales_dashboard](https://github.com/user-attachments/assets/ba5f4c04-d401-4476-b662-98004876d30d)
 
 
 
