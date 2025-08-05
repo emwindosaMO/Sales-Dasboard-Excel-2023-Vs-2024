@@ -63,7 +63,8 @@ It was built to demonstrate how Excel can be used not just for data entry, but a
 
 🖼️ **Screenshots**
 
- [Sales_dashboard](https://github.com/user-attachments/assets/ba5f4c04-d401-4476-b662-98004876d30d)
+ [Sales_dashboard 2023 vs 2024] <img width="1068" height="548" alt="Sales Performance Excel Dashboard" src="https://github.com/user-attachments/assets/4f98d4f7-7b71-4f27-ac2b-26628c5487b4" />
+
 
 
 
